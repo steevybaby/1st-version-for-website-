@@ -1,0 +1,85 @@
+body {
+	background-color:black;
+	color: rgb(10,10,10);
+	font-family:Avenir;
+}
+
+h1 {
+	color:white; 
+
+	font-family: Avenir Next;
+	font-weight: 100;
+	letter-spacing: 10px;
+}
+
+h2 {
+	color:white; 
+
+	font-family: Avenir Next;
+	font-weight: 100;
+	letter-spacing: 5px;
+}
+
+h3 {
+	color:white; 
+
+	font-family: Avenir Next;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+
+h4
+{
+	color:white; 
+
+	font-family: Avenir Next;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+h5
+{
+	color:white; 
+
+	font-family: Avenir Next;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+h6
+{
+	color:white; 
+
+	font-family: Avenir Next;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+p {
+	color:white; 
+
+	font-family: Avenir Next;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+
+
+CUSTOM 
+
+div {
+width: 700px; 
+margin: 40px auto;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
